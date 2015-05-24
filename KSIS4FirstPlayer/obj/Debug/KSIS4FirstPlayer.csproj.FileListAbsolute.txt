@@ -1,0 +1,9 @@
+c:\users\alex\documents\visual studio 2013\Projects\KSIS4FirstPlayer\KSIS4FirstPlayer\bin\Debug\KSIS4FirstPlayer.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\KSIS4FirstPlayer\KSIS4FirstPlayer\bin\Debug\KSIS4FirstPlayer.exe
+c:\users\alex\documents\visual studio 2013\Projects\KSIS4FirstPlayer\KSIS4FirstPlayer\bin\Debug\KSIS4FirstPlayer.pdb
+c:\users\alex\documents\visual studio 2013\Projects\KSIS4FirstPlayer\KSIS4FirstPlayer\obj\Debug\KSIS4FirstPlayer.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\KSIS4FirstPlayer\KSIS4FirstPlayer\obj\Debug\KSIS4FirstPlayer.Form1.resources
+c:\users\alex\documents\visual studio 2013\Projects\KSIS4FirstPlayer\KSIS4FirstPlayer\obj\Debug\KSIS4FirstPlayer.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2013\Projects\KSIS4FirstPlayer\KSIS4FirstPlayer\obj\Debug\KSIS4FirstPlayer.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2013\Projects\KSIS4FirstPlayer\KSIS4FirstPlayer\obj\Debug\KSIS4FirstPlayer.exe
+c:\users\alex\documents\visual studio 2013\Projects\KSIS4FirstPlayer\KSIS4FirstPlayer\obj\Debug\KSIS4FirstPlayer.pdb
